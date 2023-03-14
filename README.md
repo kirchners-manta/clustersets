@@ -1,12 +1,10 @@
-# Clustersets
+# Cluster sets for QCE calculations using Peacemaker
 
-**This repository contains clustersets.** <p>
-**The aim is to provide peacemaker users with a choice of clustersets.**
+This repository contains cluster sets that can be employed to perform Quantum Cluster Equilibrium (QCE) calculations with the [Peacemaker software package](https://github.com/kirchners-manta/peacemaker3). The collection of cluster sets is continuously growing and will be updated regularly. There is no warranty that the cluster sets are complete, i.e. that they contain all possible clusters for a given system.
 
 ## Structure 
 
-- The clustersets are stored in different folders depending on whether it is a pure, binary or ternary system.
-- For every system *flist* and *xyz* files are stored in separate folders.
+The clustersets are stored in different directories, depending on whether it is a pure, binary or multi-component system. For every system, the necessary *flist* and *xyz* files are stored in separate folders. A sketch of the directory structure is shown below.
 
 ```
 Clustersets
