@@ -1,7 +1,7 @@
 # Clustersets
 
 **This repository contains clustersets.** <p>
-**The aim is to provide peacemaker users with a choice of cluster sets.**
+**The aim is to provide peacemaker users with a choice of clustersets.**
 
 ## Structure 
 
