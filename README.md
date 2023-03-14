@@ -25,7 +25,7 @@ pure_systems                    binary_systems                      ternary_syst
     │       │   a2-2.flist         │   │     └───flist
     │       │   ...                │   │         │   a1-1.flist
     │                              │   │         │   a2-2.flist 
-    └───system_2                   │   │                 │   ...
+    └───system_2                   │   │         │   ...
         ...                        │   │
                                    │   └───component_b
                                    │   │     │  
