@@ -55,3 +55,6 @@ pure_systems                    binary_systems                      ternary_syst
                                        ...
 
 ```
+
+## Problems:
+- HCL: no hessian for heptamer-6cyc-1 
