@@ -9,7 +9,8 @@ The clustersets are stored in different directories, depending on whether it is 
 ```
 Clustersets
 │   README.md
-│    
+│   LICENSE
+|    
 └───│──────────────────────────────│───────────────────────────────────│
     │                              │                                   │
 pure_systems                    binary_systems                      ternary_systems
