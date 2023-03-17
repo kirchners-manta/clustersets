@@ -63,23 +63,23 @@ pure_systems                    binary_systems                      ternary_syst
 ## Generation and optimization of the clusters
 ### pure systems
 
-| System   | Generation | Optimization |
-|----------|------------|--------------|
-| buoh     |            |        
-| butane   |            |
-| ethane   |            |
-| ethene   |            |
-| hcl      |            |
-| meoh     |            |
-| propane  |            |
-| propene  |            |
-| water    |            |
+| System   | Generation                 | Optimization         |
+|----------|------------                |--------------        |
+| buoh     | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |       
+| butane   | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |
+| ethane   | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |
+| ethene   | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |
+| hcl      |                            | PBEh-3c              |
+| meoh     | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |
+| propane  | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |
+| propene  | OGOLEM, AMBER force field  | GFN2-xTB (xtb 6.2.1) |
+| water    |                            | PBEh-3c              |
 
 ### binary systems
 
-| System                        | Generation | Optimization |
-|----------                     |------------|--------------|
-| acetonitril / (R)-butan-2-ol  |
+| System                        | Generation | Optimization           |
+|----------                     |------------|--------------          |
+| acetonitril / (R)-butan-2-ol  |            | B3LYP-TZVP / BP86-SVP  |
 
 ### ternary systems
 
