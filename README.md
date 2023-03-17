@@ -58,4 +58,31 @@ pure_systems                    binary_systems                      ternary_syst
 ```
 
 ## Problems:
-- HCL: no hessian for heptamer-6cyc-1 
+- HCl : no hessian for heptamer-6cyc-1, some negative vibrations
+
+## Generation and optimization of the clusters
+### pure systems
+
+| System   | Generation | Optimization |
+|----------|------------|--------------|
+| buoh     |            |        
+| butane   |            |
+| ethane   |            |
+| ethene   |            |
+| hcl      |            |
+| meoh     |            |
+| propane  |            |
+| propene  |            |
+| water    |            |
+
+### binary systems
+
+| System                        | Generation | Optimization |
+|----------                     |------------|--------------|
+| acetonitril / (R)-butan-2-ol  |
+
+### ternary systems
+
+| System                        | Generation | Optimization |
+|----------                     |------------|--------------|
+| chloroform / methanol / water |
