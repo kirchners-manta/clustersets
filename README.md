@@ -80,6 +80,7 @@ pure_systems                    binary_systems                      ternary_syst
 | System                        | Generation | Optimization                                  |
 |----------                     |------------|--------------                                 |
 | acetonitril / (R)-butan-2-ol  | OGOLEM     | B3LYP-TZVP / BP86-SVP / B3LYP-SVP / BP86_TZVP |
+| nmf_water                     | OGOLEM     | BLYP-D3 def2-QZVP                             |
 
 ### ternary systems
 
