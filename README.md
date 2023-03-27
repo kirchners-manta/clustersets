@@ -83,6 +83,6 @@ pure_systems                    binary_systems                      ternary_syst
 
 ### ternary systems
 
-| System                        | Generation | Optimization |
-|----------                     |------------|--------------|
-| chloroform / methanol / water |
+| System                        | Generation                | Optimization |
+|----------                     |------------               |--------------|
+| chloroform / methanol / water | OGOLEM, AMBER force field | xTB          |
